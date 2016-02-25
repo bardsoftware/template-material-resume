@@ -1,4 +1,14 @@
 # MaterialCV
+lang:rutype:cvtype:resume
+Our custom CV template based on MaterialCV. Its contents and 
+comments are in Russian.
+
+Шаблон резюме, основанный на MaterialCV. Заполнен и снабжен 
+комментариями на русском языке. 
+Разработан специально для пользователей Папирии.
+
+
+
 
 ![Material CV preview](https://raw.githubusercontent.com/amng/MaterialCv/master/images/preview.PNG)
 
